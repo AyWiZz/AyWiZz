@@ -1,7 +1,7 @@
 <!-- HERO BANNER -->
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=200&section=header&text=AyWiZz&fontSize=90&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Red%20Team%20%E2%80%A2%20Blue%20Team%20%E2%80%A2%20Security%20Research&descAlignY=62&descAlign=50&descSize=18" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=200&section=header&text=AyWiZz&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Red%20Team%20%E2%80%A2%20Blue%20Team%20%E2%80%A2%20Security%20Research&descAlignY=62&descAlign=50&descSize=18" />
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2800&pause=800&color=58A6FF&center=true&vCenter=true&width=700&lines=%24+whoami;%3E+Offensive+tooling+%26+defensive+engineering;%3E+Low-level+systems+%7C+Rust+%7C+Windows+internals;%3E+Always+learning%2C+always+breaking+things" alt="Typing SVG" />
 
