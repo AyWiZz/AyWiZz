@@ -24,19 +24,15 @@
 
 ```c
 struct Operator {
-    char*  alias       = "AyWiZz";
-    char*  role        = "Cybersecurity Enthusiast";
-    char*  focus[]     = { "Red Team", "Blue Team", "Research" };
-    char*  stack[]     = { "Rust", "C/C++", "TypeScript", "Python" };
-    char*  terrain[]   = { "Windows Internals", "EDR Evasion",
-                           "Detection Engineering", "Malware Analysis" };
-    bool   caffeinated = true;
+  alias   = "AyWiZz";
+  role    = "Cybersec Enthusiast";
+  focus   = { Red, Blue, Research };
+  stack   = { Rust, C, TS, Python };
+  terrain = { Win Internals, EDR };
 };
 ```
 
-> ```diff
-> + "The quieter you become, the more you can hear."
-> ```
+> `The quieter you become, the more you can hear.`
 
 </td>
 <td width="40%" valign="top">
@@ -44,13 +40,11 @@ struct Operator {
 ### <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="28px"> Currently
 
 ```yaml
-building:  Shadow C2 framework
-exploring: Windows kernel internals
-learning:  Advanced reverse engineering
-reading:   The Rootkit Arsenal
+build:   Shadow C2
+explore: Win kernel
+learn:   Reverse eng.
+read:    Rootkit Arsenal
 ```
-
-<img src="https://raw.githubusercontent.com/trinib/trinib/82213791fa9ff58d3ca768ddd6de2489ec23ffca/images/trio.svg" width="100%" />
 
 </td>
 </tr>
